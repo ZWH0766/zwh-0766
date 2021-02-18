@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="35px" height="35px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip108">
+      <path d="M 981 367  C 972.675 367  966 360.325  966 352  L 966 347  C 966 338.675  972.675 332  981 332  L 986 332  C 994.325 332  1001 338.675  1001 347  L 1001 352  C 1001 360.325  994.325 367  986 367  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -966 -332 )">
+    <path d="M 966 332  L 1001 332  L 1001 367  L 966 367  L 966 332  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip108)" />
+    <path d="M 968 334  L 999 334  L 999 365  L 968 365  L 968 334  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip108)" />
+    <path d="M 986.825 342.5  C 985.355 342.5  984.2 341.345  984.2 339.875  C 984.2 338.405  985.355 337.25  986.825 337.25  C 988.295 337.25  989.45 338.405  989.45 339.875  C 989.45 341.345  988.295 342.5  986.825 342.5  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip108)" />
+    <path d="M 969 364  L 969 348.05  L 976.25 340.8  L 986.4 346.6  L 992.2 345.15  L 998 346.6  L 998 364  L 969 364  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip108)" />
+  </g>
+</svg>
